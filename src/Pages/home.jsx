@@ -77,7 +77,7 @@ const Home = () => {
                       onChange={handleInputChange}
                     />
                     <button id="search-btn" className="search-button" onClick={handleSearch}>
-                      <i className="bi bi-search"><FaSearch/></i>
+                      <i className="bi bi-search"></i>
                     </button>
                   </div>
                   <div className="row">
