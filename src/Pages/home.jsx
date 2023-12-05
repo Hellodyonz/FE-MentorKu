@@ -112,7 +112,7 @@ const Home = () => {
                 <div className="header-text col-12 col-lg-12 col-xl-6 col-sm-12 py-5 col-md-12 ">
                   <h1>
                     Konsultasi Dengan <span className="secondary">Mentor</span>{" "}
-                    Kapanpun dan Dimanapunn
+                    Kapanpun dan Dimanapun
                   </h1>
                   <p>
                     Booking dan temukan mentor proffesional dengan mudah <br />
