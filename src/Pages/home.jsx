@@ -154,7 +154,7 @@ const Home = () => {
                   </div>
                 </div>
                 <div className="header-image col-lg-6 col-sm-12 col-md-12 col-12 d-flex justify-content-center">
-                  <img src="src/Assets/Img/header-logo.png" alt="" srcSet="" />
+                  <img src="https://iili.io/JIFNcrl.th.png" alt="" srcSet="" />
                 </div>
               </div>
             </section>
