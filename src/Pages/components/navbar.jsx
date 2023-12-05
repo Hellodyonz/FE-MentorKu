@@ -5,7 +5,7 @@ function Navbar(){
     return(
         <nav className="navbar navbar-expand-lg ">
           <div className="container">
-            <a className="navbar-brand" href="#">
+            <a className="navbar-brand" href="/">
               <img
                 src="https://iili.io/JIFNa14.md.png"
                 alt=""
