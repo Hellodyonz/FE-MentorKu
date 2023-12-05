@@ -17,7 +17,7 @@ const PaymentBarcode = () => {
         <div className="row box-container">
           <div className="box-payment ">
             <div className="icon-payment">
-              <img className="my-2" src="src/Assets/Img/Only-Logo.png" alt="" />
+              <img className="my-2" src="https://iili.io/JIFNa14.md.png" alt="" />
               <h5 className="text-logo">
                 Mentor<span className="">ku</span>
               </h5>
@@ -33,11 +33,11 @@ const PaymentBarcode = () => {
             </div>
             <div className="category-payment">
               <p>Gopay</p>
-              <img src="src/assets/img/payment/gopay-icon.png" alt="Gopay" />
+              <img src="https://iili.io/JIKzLfR.md.png" alt="Gopay" />
             </div>
             <div className="card"></div>
             <div className="barcode-payment">
-              <img src="src/assets/img/payment/barcode.jpg" alt="" />
+              <img src="https://iili.io/JIKzQlp.jpg" alt="" />
             </div>
             <div className="button-container">
               <div>

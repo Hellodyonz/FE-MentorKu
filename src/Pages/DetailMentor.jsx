@@ -528,7 +528,7 @@ const Mentor = () => {
             <div className="card" id="box-card">
               <div className="card-body" id="card-reviewer">
                 <img
-                  src="src/assets/img/reviewer/Catherine.jpg"
+                  src="https://iili.io/JIKBxWl.md.jpg"
                   alt="Catherine"
                 />
                 <div className="card-body-reviewer">
@@ -564,7 +564,7 @@ const Mentor = () => {
             <div className="card" id="box-card">
               <div className="card-body" id="card-reviewer">
                 <img
-                  src="src/assets/img/reviewer/Catherine.jpg"
+                  src="https://iili.io/JIKBox4.md.jpg"
                   alt="Catherine"
                 />
                 <div className="card-body-reviewer">
@@ -600,7 +600,7 @@ const Mentor = () => {
             <div className="card" id="box-card">
               <div className="card-body" id="card-reviewer">
                 <img
-                  src="src/assets/img/reviewer/Catherine.jpg"
+                  src="https://iili.io/JIKBCbf.md.jpg"
                   alt="Catherine"
                 />
                 <div className="card-body-reviewer">

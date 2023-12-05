@@ -70,7 +70,7 @@ const Pembayaran = () => {
                 <div className="card card-booking mb-3">
                   <div className="row g-0">
                     <div className="col-md-5 col-sm-12">
-                      <img src="src/Assets/Img/card-detail.png" className="img-fluid rounded-start" alt="..." />
+                      <img src="https://iili.io/JIKxDZb.md.png" className="img-fluid rounded-start" alt="..." />
                     </div>
                     <div className="col-md-7">
                       <div className="card-body">
