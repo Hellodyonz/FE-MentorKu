@@ -57,7 +57,7 @@ const Transaksi = () => {
                 <h5>Transaksi</h5>
                 <div className="col-md-12 d-flex justify-content-between active-mentoring p-3 align-items-center">
                     <div className="d-flex align-items-center">
-                      <img src="src/Assets/Img/mentor/mentor4.png"/>
+                      <img src="https://iili.io/JIfAYAB.png"/>
                       <div className="p-3">
                           <h5 className="card-title">Micho Suhada</h5>
                           <p className="card-text">

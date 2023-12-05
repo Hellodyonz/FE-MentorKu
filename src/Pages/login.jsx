@@ -45,13 +45,13 @@ const LoginComponent = () => {
       <div className="row">
         <div className="col-md-6 custom-card" id="photo-regist">
           <div className="icon-page">
-            <img className="my-2" src="src/Assets/Img/Only-Logo.png" alt="" />
+            <img className="my-2" src="https://iili.io/JIFNa14.md.png" alt="" />
             <h5 className="text-logo">
               Mentor<span className="primary">ku</span>
             </h5>
           </div>
           <div className="icon-regist">
-            <img src="src/assets/img/regist/photo-regist.png" className="card-img-top" alt="" />
+            <img src="https://iili.io/JIK0mej.md.png" className="card-img-top" alt="" />
           </div>
         </div>
         <div className="col-md-6 custom-card" id="card-regist">
