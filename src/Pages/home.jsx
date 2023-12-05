@@ -47,7 +47,7 @@ const Home = () => {
           <div className="container">
             <a className="navbar-brand" href="#">
               <img
-                src="src/assets/img/Only-Logo.png"
+                src="https://iili.io/JIFNa14.th.png"
                 alt=""
                 srcSet=""
                 className="me-1"
