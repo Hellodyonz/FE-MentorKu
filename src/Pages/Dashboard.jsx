@@ -1,59 +1,13 @@
 import React from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import '../style/dashboard.css'
+import Navbar from './components/navbar';
 
 const Dashboard = () => {
   return (
     <>
       <header>
-        <nav className="navbar navbar-expand-lg">
-          <div className="container">
-            <a className="navbar-brand" href="#">
-              <img src="src/Assets/Img/Only-Logo.png" alt="" className="me-1" />
-              Mentor<span className="primary">Ku</span>
-            </a>
-            <button
-              className="navbar-toggler"
-              type="button"
-              data-bs-toggle="collapse"
-              data-bs-target="#navbarNav"
-              aria-controls="navbarNav"
-              aria-expanded="false"
-              aria-label="Toggle navigation"
-            >
-              <span className="navbar-toggler-icon"></span>
-            </button>
-            <div className="collapse navbar-collapse" id="navbarNav">
-              <ul className="navbar-nav mx-auto">
-                <li className="nav-item mx-5 mx-xl-5 mx-md-2">
-                  <a className="nav-link active" aria-current="page" href="Home.html">
-                    Home
-                  </a>
-                </li>
-                <li className="nav-item mx-5 mx-xl-5 mx-md-2">
-                  <a className="nav-link" href="#">
-                    Top Mentor
-                  </a>
-                </li>
-                <li className="nav-item mx-5 mx-xl-5 mx-md-2">
-                  <a className="nav-link" href="#">
-                    Event
-                  </a>
-                </li>
-                <li className="nav-item mx-5 mx-xl-5 mx-md-2">
-                  <a className="nav-link" href="#">
-                    Jadi Mentor
-                  </a>
-                </li>
-              </ul>
-
-              <div>
-                <button className="btn btn-flat">Login</button>
-                <button className="btn btn-secondary">Register</button>
-              </div>
-            </div>
-          </div>
-        </nav>
+        <Navbar/>
       </header>
 
       <div className="container">
