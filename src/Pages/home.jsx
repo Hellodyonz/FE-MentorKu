@@ -5,7 +5,7 @@ import { FaStar } from "react-icons/fa6";
 import { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { FaSearch } from "react-icons/fa";
-import { Footer } from "react-bootstrap/lib/modal";
+import Footer from "./components/footer";
 
 const Home = () => {
   const [mentor1, setMentor1] = useState([]);
