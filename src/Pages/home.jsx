@@ -47,7 +47,7 @@ const Home = () => {
           <div className="container">
             <a className="navbar-brand" href="#">
               <img
-                src="https://iili.io/JIFNa14.th.png"
+                src="https://iili.io/JIFNa14.md.png"
                 alt=""
                 srcSet=""
                 className="me-1"
@@ -165,22 +165,22 @@ const Home = () => {
             <div className="row text-center align-items-center">
               <h3>Lebih dari 200 perusahaan bergabung dengan MentorKu</h3>
               <div className="col-xl-2 col-md-4 py-3 col-sm-4 col-6">
-                <img src="src/Assets/Img/brand/slack.png" alt="" srcSet="" />
+                <img src="https://iili.io/JIF8dx9.png" alt="" srcSet="" />
               </div>
               <div className="col-xl-2 col-md-4 py-2 col-sm-4 col-6">
-                <img src="src/Assets/Img/brand/airbn.png" alt="" srcSet="" />
+                <img src="https://iili.io/JIF8HD7.png" alt="" srcSet="" />
               </div>
               <div className="col-xl-2 col-md-4 py-2 col-sm-4 col-6">
-                <img src="src/Assets/Img/brand/tinder.png" alt="" srcSet="" />
+                <img src="https://iili.io/JIF82Ve.png" alt="" srcSet="" />
               </div>
               <div className="col-xl-2 col-md-4 py-2 col-sm-4 col-6">
-                <img src="src/Assets/Img/brand/google.png" alt="" srcSet="" />
+                <img src="https://iili.io/JIF89NS.png" alt="" srcSet="" />
               </div>
               <div className="col-xl-2 col-md-4 py-2 col-sm-4 col-6">
-                <img src="src/Assets/Img/brand/amazon.png" alt="" srcSet="" />
+                <img src="https://iili.io/JIFvyR2.png" alt="" srcSet="" />
               </div>
               <div className="col-xl-2 col-md-4 py-2 col-sm-4 col-6">
-                <img src="src/Assets/Img/brand/paypal.png" alt="" srcSet="" />
+                <img src="https://iili.io/JIFvpHl.png" alt="" srcSet="" />
               </div>
             </div>
           </div>
@@ -192,7 +192,7 @@ const Home = () => {
           <div className="container">
             <div className="row benefit">
               <div className="benefit-image col-xl-5">
-                <img src="src/Assets/Img/benefit-image.png" alt="" srcSet="" />
+                <img src="https://iili.io/JIF6oOv.md.png" alt="" srcSet="" />
               </div>
               <div className="benefit-text col-xl-6">
                 <h3>Apa Saja yang akan kamu dapat ?</h3>
@@ -200,7 +200,7 @@ const Home = () => {
                   <div className="col-6 benefit-item">
                     <div className="benefit-card">
                       <img
-                        src="src/Assets/Img/benefit icon/verif.png"
+                        src="https://iili.io/JIF67gn.png"
                         alt=""
                         srcSet=""
                       />
@@ -214,7 +214,7 @@ const Home = () => {
                   <div className="col-6 benefit-item">
                     <div className="benefit-card">
                       <img
-                        src="src/Assets/Img/benefit icon/people.png"
+                        src="https://iili.io/JIF6aJs.png"
                         alt=""
                         srcSet=""
                       />
@@ -228,7 +228,7 @@ const Home = () => {
                   <div className="col-6 benefit-item">
                     <div className="benefit-card">
                       <img
-                        src="src/Assets/Img/benefit icon/money.png"
+                        src="https://iili.io/JIF6c5G.png"
                         alt=""
                         srcSet=""
                       />
@@ -241,7 +241,7 @@ const Home = () => {
                   <div className="col-6 benefit-item">
                     <div className="benefit-card">
                       <img
-                        src="src/Assets/Img/benefit icon/connect.png"
+                        src="https://iili.io/JIF6lef.png"
                         alt=""
                         srcSet=""
                       />
