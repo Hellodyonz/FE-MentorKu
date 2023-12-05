@@ -5,6 +5,7 @@ import { FaStar } from "react-icons/fa6";
 import { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { FaSearch } from "react-icons/fa";
+import { Footer } from "react-bootstrap/lib/modal";
 
 const Home = () => {
   const [mentor1, setMentor1] = useState([]);
@@ -328,84 +329,7 @@ const Home = () => {
         </section>
       </main>
 
-      <footer className="text-black">
-        <div className="container py-3">
-          <div className="row">
-            <div className="col-lg-5 col-md-12 mb-4 mb-md-0">
-              <img className="my-2" src="src/Assets/Img/Only-Logo.png" alt="" />
-              <h5 className="text-logo">
-                Mentor<span className="primary">ku</span>
-              </h5>
-              <p>Booking dan temukan mentor profesional dengan mudah.</p>
-              <div className="sosmed-footer">
-                <div className="sosmed-logo">
-                  <img src="src/Assets/Img/social media/instagram.png" alt="" />
-                </div>
-                <div className="sosmed-logo">
-                  <img src="src/Assets/Img/social media/linkedin.png" alt="" />
-                </div>
-                <div className="sosmed-logo">
-                  <img src="src/Assets/Img/social media/twitter.png" alt="" />
-                </div>
-                <div className="sosmed-logo">
-                  <img src="src/Assets/Img/social media/youtube.png" alt="" />
-                </div>
-              </div>
-            </div>
-            <div className="col-lg-2 col-md-4 mb-4 mb-md-0">
-              <h5>Mentorku</h5>
-              <ul className="list-unstyled mb-0">
-                <li>
-                  <a href="#!">Karir</a>
-                </li>
-                <li>
-                  <a href="#!">Tentang Kami</a>
-                </li>
-                <li>
-                  <a href="#!">Partner</a>
-                </li>
-                <li>
-                  <a href="#!">Blog</a>
-                </li>
-              </ul>
-            </div>
-            <div className="col-lg-2 col-md-4 mb-4 mb-md-0">
-              <h5>Layanan</h5>
-              <ul className="list-unstyled mb-0">
-                <li>
-                  <a href="#!">Mentoring</a>
-                </li>
-                <li>
-                  <a href="#!">Course</a>
-                </li>
-                <li>
-                  <a href="#!">Challenge</a>
-                </li>
-                <li>
-                  <a href="#!">Event</a>
-                </li>
-                <li>
-                  <a href="#!">Paket</a>
-                </li>
-              </ul>
-            </div>
-            <div className="col-lg-3 col-md-4 mb-4 mb-md-0">
-              <h5>Bantuan dan Panduan</h5>
-              <ul className="list-unstyled mb-0">
-                <li>
-                  <a href="#!">Syarat dan Ketentuan</a>
-                </li>
-                <li>
-                  <a href="#!">Kebijakan Privasi</a>
-                </li>
-                <li>
-                  <a href="#!">Bantuan</a>
-                </li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </footer>
+      <Footer/>
     </div>
   );
 };

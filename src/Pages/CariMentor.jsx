@@ -50,7 +50,7 @@ const CariMentor = () => {
       <nav className="navbar navbar-expand-lg">
           <div className="container">
             <a className="navbar-brand" href="#">
-              <img src="src/Assets/Img/Only-Logo.png" alt="" className="me-1" />
+              <img src="https://iili.io/JIFNa14.md.png" alt="" className="me-1" />
               Mentor<span className="primary">Ku</span>
             </a>
             <button
@@ -173,7 +173,7 @@ const CariMentor = () => {
         <div className="container py-3">
           <div className="row">
             <div className="col-lg-5 col-md-12 mb-4 mb-md-0">
-              <img className="my-2" src="src/Assets/Img/Only-Logo.png" alt="" />
+              <img className="my-2" src="https://iili.io/JIFNa14.md.png" alt="" />
               <h5 className="text-logo">
                 Mentor<span className="primary">ku</span>
               </h5>
